@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historicorumrom02petegoog_0012.png"; bbox 0 0 2640 4052; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 49 1073 1246 1860">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 49 1073 1246 1860">
+     <span class='ocr_line' id='line_1_1' title="bbox 49 1073 1035 1228; baseline 0.006 -65"><span class='ocrx_word' id='word_1_1' title='bbox 49 1073 54 1084; x_wconf 48' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_2' title='bbox 198 1083 503 1166; x_wconf 76' lang='lat' dir='ltr'><strong>GYMNASIORVM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 519 1087 740 1228; x_wconf 36' lang='lat' dir='ltr'><strong>&#39;QVONDAM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 769 1089 1035 1170; x_wconf 80' lang='lat' dir='ltr'>REGTORIBVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 80 1295 1147 1400; baseline 0.007 -7"><span class='ocrx_word' id='word_1_5' title='bbox 80 1295 496 1396; x_wconf 69' lang='lat' dir='ltr'>POSNANJENsls</span> <span class='ocrx_word' id='word_1_6' title='bbox 531 1299 688 1398; x_wconf 75' lang='lat' dir='ltr'>IVLIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 724 1299 1147 1400; x_wconf 68' lang='lat' dir='ltr'>soMMERssssoffl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 160 1465 1246 1630; baseline 0.002 -4"><span class='ocrx_word' id='word_1_8' title='bbox 160 1527 633 1628; x_wconf 71' lang='lat' dir='ltr'><strong>FRANGOFVRTANI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 664 1529 879 1629; x_wconf 64' lang='lat' dir='ltr'><strong>cAssoho</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 911 1530 1067 1630; x_wconf 66' lang='lat' dir='ltr'>1400ss</span> <span class='ocrx_word' id='word_1_11' title='bbox 1243 1465 1246 1470; x_wconf 6' lang='grc' dir='ltr'><strong>Δ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 163 1703 1017 1860; baseline 0.005 -3"><span class='ocrx_word' id='word_1_12' title='bbox 163 1703 169 1715; x_wconf 81' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 209 1758 517 1860; x_wconf 71' lang='lat' dir='ltr'>M1sNENsls</span> <span class='ocrx_word' id='word_1_14' title='bbox 550 1759 776 1859; x_wconf 74' lang='lat' dir='ltr'>HVGONI</span> <span class='ocrx_word' id='word_1_15' title='bbox 808 1760 1017 1860; x_wconf 64' lang='lat' dir='ltr'>lhssfflzfl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 348 2059 879 2116">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 348 2059 879 2116">
+     <span class='ocr_line' id='line_1_5' title="bbox 348 2059 879 2116; baseline -0.002 0"><span class='ocrx_word' id='word_1_16' title='bbox 348 2059 516 2116; x_wconf 82' lang='lat' dir='ltr'><strong>STIPENDI</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 535 2060 603 2116; x_wconf 85' lang='lat' dir='ltr'><strong>SVB</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 621 2060 678 2116; x_wconf 84' lang='lat' dir='ltr'><strong>EIS</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 698 2060 879 2116; x_wconf 83' lang='lat' dir='ltr'>OONFECTI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1324 4052">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1324 4052">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1324 4052; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1324 4052; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

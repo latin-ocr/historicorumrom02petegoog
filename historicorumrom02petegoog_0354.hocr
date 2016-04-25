@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historicorumrom02petegoog_0354.png"; bbox 0 0 2620 4054; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 497 1375 801 1550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 497 1362 801 1550">
+     <span class='ocr_line' id='line_1_1' title="bbox 497 1375 801 1550; baseline -0.049 -21"><span class='ocrx_word' id='word_1_1' title='bbox 497 1375 701 1550; x_wconf 66' lang='lat' dir='ltr'>EleER&#39;</span> <span class='ocrx_word' id='word_1_2' title='bbox 729 1426 801 1514; x_wconf 90' lang='lat'><strong>111</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 5 1596 1081 2045">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 5 1596 1081 2045">
+     <span class='ocr_line' id='line_1_2' title="bbox 385 1596 977 1804; baseline 0.007 -4"><span class='ocrx_word' id='word_1_3' title='bbox 385 1596 915 1804; x_wconf 55' lang='lat' dir='ltr'><strong>FRfflMfiNwA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 967 1596 977 1620; x_wconf 72' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 5 1857 1081 2045; baseline 0.002 -5"><span class='ocrx_word' id='word_1_5' title='bbox 5 1857 7 1906; x_wconf 25' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_6' title='bbox 217 1939 583 2044; x_wconf 81' lang='lat' dir='ltr'>HISTORIAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 639 1943 1081 2045; x_wconf 74' lang='lat' dir='ltr'>SENESCENTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1314 4054">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1314 4054">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1314 4054; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1314 4054; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
